@@ -40,14 +40,16 @@ Figure 02  Encoder 8 * 3
 
 **PROGRAM**
  Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
-<img width="655" height="402" alt="image" src="https://github.com/user-attachments/assets/0468ac37-9854-4750-b7e1-318a1da80b51" />
+<img width="446" height="248" alt="image" src="https://github.com/user-attachments/assets/4ce798e3-06f0-4942-8d31-66c566467a31" />
 
 Developed by: KARKIE  F   RegisterNumber: 25016839
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
-<img width="1144" height="602" alt="image" src="https://github.com/user-attachments/assets/4d13ff46-01da-4787-84b6-221d7197da52" />
+<img width="575" height="507" alt="image" src="https://github.com/user-attachments/assets/46f3883f-0d20-4a23-b8c4-c5ebe9039f1a" />
+
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-<img width="1725" height="426" alt="image" src="https://github.com/user-attachments/assets/03e1dfc2-aca6-4013-9b65-bc914eadb43e" />
+<img width="622" height="382" alt="image" src="https://github.com/user-attachments/assets/cdfbcc6a-cb0b-4b21-b1f5-49586cf86879" />
+
 **RESULTS**
 Thus the program to implement Encoder 8 To 3 in Dataflow Modelling using verilog and validate their functionality using their functional tables has been completed successfully
 
